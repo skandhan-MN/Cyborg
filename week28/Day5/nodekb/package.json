@@ -1,0 +1,14 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Creating the server ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Skandhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

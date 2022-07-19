@@ -1,0 +1,70 @@
+body{
+    height: 100%;
+    align-items: center;
+    background-color: #C1CFC0;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 99vh;
+  margin-left: 0;
+}
+
+#main {
+    background-color: #E7E0C9;
+    box-shadow: 1.5px 1.5px 1.5px rgb(129, 128, 128);
+    padding: 20px;
+    border-radius: 10px;
+    color: #11324D;
+}
+
+#main button {
+    padding: 10px 15px;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+    margin: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color:#11324D;
+    color: white;
+}
+
+
+#Latitude {
+    color: #6B7AA1;
+}
+#Longitude{
+    color: #11324D;
+}
+
+h1 {
+    margin: 40px;
+    font-size: 60px;
+    font-weight:150;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#locationBox {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 300;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+a {
+    color: rgb(3, 0, 0);
+}
+
+
